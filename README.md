@@ -8,8 +8,8 @@
 	<img src="https://img.shields.io/badge/score-104%20%2F%20100-success?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/github/languages/top/jotavare/ft_printf?color=%2312bab9&style=flat-square"/>
 	<img src="https://img.shields.io/github/last-commit/jotavare/ft_printf?color=%2312bab9&style=flat-square"/>
-	<a href='https://www.linkedin.com/in/joaoptoliveira' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+	<a href='https://www.linkedin.com/in/yasir-arslan-6823a229b/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+	<a href='https://profile.intra.42.fr/users/yaarslan' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
 <p align="center">
@@ -25,18 +25,18 @@
 ## ABOUT
 This project involved recreating the well-known C library function, printf. This provided a valuable learning opportunity in variadic arguments and structures, particularly if we intend to incorporate additional flags into our implementation of print.
 
-- [Subject](https://github.com/jotavare/ft_printf/blob/master/subject/en_subject_ft_printf.pdf) `PDF`
-- [References](https://github.com/jotavare/42-resources#01-ft_printf) `GitHub`
+- [Subject](https://github.com/MepCity/42_ft_printf/tree/main/subject) `PDF`
+- [References](https://github.com/MepCity/42_ft_printf/tree/main) `GitHub`
 
 ## HOW TO USE
 #### 1º - Clone the repository
 ```git
-git clone git@github.com:jotavare/ft_printf.git
+git clone https://github.com/MepCity/42_ft_printf.git
 ```
 
 #### 2º - Enter the project folder and run `make`
 ```bash
-cd ft_printf/ft_printf
+cd 42_ft_printf/ft_printf
 make
 ```
 
