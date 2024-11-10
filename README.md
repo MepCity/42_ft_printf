@@ -91,7 +91,3 @@ make
 ## CONTRIBUTING
 
 If you find any issues or have suggestions for improvements, feel free to fork the repository and open an issue or submit a pull request.
-
-## LICENSE
-
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/ft_printf/blob/master/LICENSE) file.
